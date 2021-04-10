@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saad47
 - 👀 I’m interested in knowledge
-- 🌱 I’m currently learning Frontend Web Development
+- 🌱 I’m senior Frontend Web Developer
 - 💞️ I’m looking forward to learn more and more
 - 📫 saad.sujoodi.123@gmail.com
 
